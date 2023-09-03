@@ -101,3 +101,35 @@ def d_o(val):
   op = d_o(val)
 
   op
+
+  #OUTPUT:
+
+  ![image](https://github.com/Yugendaran/ODD2023---Datascience---Ex-02/assets/128135616/ce20a1d1-83d7-4ba9-ba68-d1b6a6a9fc74)
+
+  ![image](https://github.com/Yugendaran/ODD2023---Datascience---Ex-02/assets/128135616/d99857a5-ba5d-4205-b136-fe5db64f82e4)
+
+  ![image](https://github.com/Yugendaran/ODD2023---Datascience---Ex-02/assets/128135616/3575c862-ddc9-4676-bc2a-eb0b028c0335)
+
+  ![image](https://github.com/Yugendaran/ODD2023---Datascience---Ex-02/assets/128135616/77c62ada-fc65-4dd1-bf90-6fb4fad91bd0)
+
+  ![image](https://github.com/Yugendaran/ODD2023---Datascience---Ex-02/assets/128135616/1baf73cc-50a3-4b5c-9811-68c7a104cc09)
+
+  ![image](https://github.com/Yugendaran/ODD2023---Datascience---Ex-02/assets/128135616/2d457791-498c-43e7-920f-2e9d9027cdc2)
+
+  ![image](https://github.com/Yugendaran/ODD2023---Datascience---Ex-02/assets/128135616/188ebebc-0dcf-443e-afbd-15986f2b10a4)
+
+  ![image](https://github.com/Yugendaran/ODD2023---Datascience---Ex-02/assets/128135616/5d623ceb-b7ea-4993-bd0f-626bc7e4bc72)
+
+  ![image](https://github.com/Yugendaran/ODD2023---Datascience---Ex-02/assets/128135616/849cecb5-3c55-48bf-999f-8dbc43f85049)
+
+  ![image](https://github.com/Yugendaran/ODD2023---Datascience---Ex-02/assets/128135616/bb55307b-ca2e-447a-9cba-f1a18fcf8066)
+
+
+
+
+
+
+
+
+
+
