@@ -1,6 +1,6 @@
 # Ex02-Outlier
 # AIM:
-You are given bhp.csv which contains property prices in the city of banglore, India. You need to examine price_per_sqft column and do following,
+To read a given dataset and remove outliers and save a new dataframe.
 
 # ALGORITHM:
 (1) Remove outliers using IQR
@@ -123,6 +123,10 @@ def d_o(val):
   ![image](https://github.com/Yugendaran/ODD2023---Datascience---Ex-02/assets/128135616/849cecb5-3c55-48bf-999f-8dbc43f85049)
 
   ![image](https://github.com/Yugendaran/ODD2023---Datascience---Ex-02/assets/128135616/bb55307b-ca2e-447a-9cba-f1a18fcf8066)
+
+
+  # RESULT:
+  Thus, the given data is read,remove outliers and save a new dataframe was created and executed successfully.
 
 
 
