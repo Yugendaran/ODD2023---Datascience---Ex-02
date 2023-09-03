@@ -17,9 +17,13 @@ You are given bhp.csv which contains property prices in the city of banglore, In
 
 # PROGRAM:
 import pandas as pd
+
 import numpy as np
+
 import seaborn as sns
+
 import pandas as pd
+
 from scipy import stats
 
 df = pd.read_csv("/content/heights.csv")
