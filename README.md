@@ -102,7 +102,7 @@ def d_o(val):
 
   op
 
-  #OUTPUT:
+  # OUTPUT:
 
   ![image](https://github.com/Yugendaran/ODD2023---Datascience---Ex-02/assets/128135616/ce20a1d1-83d7-4ba9-ba68-d1b6a6a9fc74)
 
