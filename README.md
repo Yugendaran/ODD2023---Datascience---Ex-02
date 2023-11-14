@@ -1,9 +1,13 @@
-# Ex02-Outlier
-# AIM:
+# Ex NO : 02 Outlier Detection and Removal
+
+## DATE : 
+
+## AIM:
 To read a given dataset and remove outliers and save a new dataframe.
 
-# ALGORITHM:
-(1) Remove outliers using IQR
+## ALGORITHM:
+### STEP 1 :
+Remove outliers using IQR
 
 (2) After removing outliers in step 1, you get a new dataframe.
 
