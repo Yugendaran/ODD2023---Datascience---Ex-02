@@ -1,6 +1,6 @@
 # Ex NO : 02 Outlier Detection and Removal
 
-## DATE : 
+## DATE :  14/09/2023
 
 ## AIM:
 To read a given dataset and remove outliers and save a new dataframe.
